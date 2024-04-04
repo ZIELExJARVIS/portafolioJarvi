@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.caja1 {
+    border: #EB0202 solid 3px;
+    height: 45px;
+}
+
+.caja2 {
+    background-color: white;
+    height: 45px;
+}
+
+.caja3 {
+    background-color: #EB0202;
+    height: 200px;
+}
+
+.caja4 {
+    background-color: white;
+    height: 25px;
+}
+
+.caja5 {
+    border: #EB0202 solid 2px;
+    height: 50px;
+}
+
+.caja6 {
+    background-color: #5BEB02;
+    height: 50px;
+}
+.caja7 {
+    border: #EB0202 solid 2px;
+    height: 200px;
+}
+.caja8 {
+    border: #6FD97A solid 2px;
+    height: 100px;
+    background-color: #6FD97A;
+}
+
+.caja9 {
+    background-image: url(Social.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+padding: 50px;
+}
+
+.caja10 {
+    background-color: #5BEB02;
+    background-image: url(Imagenes/Empatia.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.menú {
+    background-color: black;
+color: white;
+    padding: 20px;
+}
+
+
+    
